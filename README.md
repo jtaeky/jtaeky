@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jtaeky
+- 👋 Hi, I’m John
 - 👀 I’m interested in cool web based interactions
 - 🌱 I’m currently learning how to make websites
 - 📫 Reach me at johntaekyun@gmail.com
